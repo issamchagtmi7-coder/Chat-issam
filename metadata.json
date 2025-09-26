@@ -1,0 +1,5 @@
+{
+  "name": "Chat Issam: AI Assistant & Photo Editor",
+  "description": "An AI-powered application that combines a versatile chatbot for any question with a powerful photo editor, all driven by the Gemini API.",
+  "requestFramePermissions": []
+}
